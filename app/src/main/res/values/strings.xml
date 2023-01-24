@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">todoList</string>
+    <string name="todo_content_hint">할 일을 작성해주세요</string>
 </resources>
